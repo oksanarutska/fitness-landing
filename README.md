@@ -6,5 +6,5 @@
 
 ## technology
 
-##### * HTML
-##### * CSS
+##### + HTML
+ * CSS
