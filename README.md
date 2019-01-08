@@ -1,15 +1,3 @@
-# fitness-landing
-
-## fitness-landing is a simple website template, what can use another project
-
-[fitness]()
-
-## technology
-
-##### + HTML
- * CSS
- 
- 
 # Fitness-landing Project 
 ## Information
 This project is an example project realizing adaptive layout.
