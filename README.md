@@ -9,4 +9,3 @@ This project is an example project realizing adaptive layout.
 
 ## How to run?
  Run this command: ```git clone https://github.com/oksanarutska/cat-library.git```
-## Result
